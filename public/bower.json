@@ -1,0 +1,11 @@
+{
+  "name": "Cilindros",
+  "description": "Paquetes del frontend para el proyecto",
+  "main": "",
+  "license": "MIT",
+  "homepage": "cilindros.app",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "bootstrap-material-design": "^0.5.10" 
+  }
+}
